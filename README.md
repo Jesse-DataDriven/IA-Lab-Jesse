@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Tecnologia-IA_Generativa-7b1fa2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Projeto-Em_Andamento-0288d1?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Modelo-XTTS_v2-4caf50?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Modelo-LatentSync-f57c00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Execução-GPU_T4-455a64?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Open_Source-100%25-2e7d32?style=for-the-badge">
+</p>
+
 # 🧪 IA Lab – Projetos de IA Generativa (Voz, Vídeo e Imagem)
 Repositório oficial dos meus experimentos, pipelines e protótipos em **IA Generativa**, com foco em voz, vídeo, imagem e multimodalidade — sempre usando tecnologias **open source**.
 
