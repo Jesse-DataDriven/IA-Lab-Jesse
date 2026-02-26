@@ -1,0 +1,38 @@
+# 🧪 IA Lab – Projetos de IA Generativa (Voz, Vídeo e Imagem)
+Repositório oficial dos meus experimentos, pipelines e protótipos em **IA Generativa**, com foco em voz, vídeo, imagem e multimodalidade — sempre usando tecnologias **open source**.
+
+Este laboratório reúne meus estudos práticos da certificação em IA, explorando desde clonagem de voz até geração de imagens e sincronização labial.
+
+---
+
+# 🎙️ Projeto 1 — IA Multilíngue (Voz + Vídeo)
+
+Pipeline completo para gerar vídeos multilíngues com:
+
+- **Clonagem de voz** (XTTS v2)
+- **Sincronização labial** (LatentSync)
+- **Tradução automática**
+- **Renderização final em vídeo**
+- **Execução 100% open source**
+
+### 🧠 Arquitetura base
+- GPU Tesla T4 (Google Colab)
+- Integração Colab + Drive
+- Bibliotecas: `deep-translator`, `kornia`, `insightface`, `torch`, `ffmpeg`
+
+### 🎙️ Modelos principais
+- **XTTS v2** — clona minha voz em qualquer idioma  
+- **LatentSync** — sincroniza meus lábios com o áudio gerado  
+
+Essas duas camadas são o coração do pipeline.
+
+### 🎬 Exemplos de vídeos gerados
+Idiomas já testados: 🇮🇹 🇷🇺 🇨🇳 🇯🇵 🇪🇸 🇩🇪 🇮🇳 🇰🇷  
+*(links podem ser adicionados aqui)*
+
+### 📁 Acesse o projeto
+👉 `/video-voice-ai/`
+
+# 📌 Estrutura do repositório
+
+# IA-Lab-Jesse
