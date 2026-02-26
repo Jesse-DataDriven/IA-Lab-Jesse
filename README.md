@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Open_Source-100%25-2e7d32?style=for-the-badge">
 </p>
 
-
 # 🧪 IA Lab – IA Generativa (Voz &Vídeo)
 Repositório  dos meus experimentos, pipelines e protótipos em **IA Generativa**, com foco em voz e vídeo, usando tecnologias **open source**.
 Aqui organizo meus estudos práticos em IA, explorando desde clonagem de voz e sincronização labial até geração de vídeos em diversos idiomas.
@@ -46,9 +45,6 @@ Essas duas camadas são o coração do pipeline.
 - 🇩🇪 Alemão — https://youtube.com/shorts/Oeij19cG3gM
 - 🇮🇳 Hindi — https://youtube.com/shorts/vWiujDYocac
 
-### 📁 Acesse o projeto
-👉 `/video-voice-ai/`
-
 ---
 
 # 🛠️ Tecnologias principais
@@ -68,4 +64,8 @@ Essas duas camadas são o coração do pipeline.
 
 # 📌 Estrutura do repositório
 
-
+## 📁 Estrutura
+├── notebook/
+│   └── pipeline_multilingue.ipynb
+├── audiovídeo /
+└── README.md
