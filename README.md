@@ -9,7 +9,7 @@
 </p>
 
 
-# 🧪 IA Lab – Projetos de IA Generativa (Voz &Vídeo)
+# 🧪 IA Lab – IA Generativa (Voz &Vídeo)
 Repositório  dos meus experimentos, pipelines e protótipos em **IA Generativa**, com foco em voz e vídeo, usando tecnologias **open source**.
 Aqui organizo meus estudos práticos em IA, explorando desde clonagem de voz e sincronização labial até geração de vídeos em diversos idiomas.
 
@@ -49,6 +49,23 @@ Essas duas camadas são o coração do pipeline.
 ### 📁 Acesse o projeto
 👉 `/video-voice-ai/`
 
+---
+
+# 🛠️ Tecnologias principais
+
+- Python  
+- PyTorch  
+- XTTS v2  
+- LatentSync  
+- InsightFace  
+- Kornia  
+- Deep Translator  
+- FFmpeg  
+- Google Colab  
+- Power BI (integrações futuras)
+
+---
+
 # 📌 Estrutura do repositório
 
-# IA-Lab-Jesse
+
