@@ -67,15 +67,20 @@ Essas duas camadas são o coração do pipeline.
 IA-Lab-Jesse/
 │
 ├── README.md
+│
 ├── notebooks/
 │   └── voice_video_pipeline.ipynb
+│
 ├── samples/
 │   ├── original/
 │   └── generated/
+│
 ├── pipeline/
 │   ├── xtts/
 │   ├── latentsync/
 │   └── utils/
+│
 └── assets/
     └── thumbnails/
+
 
