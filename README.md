@@ -10,9 +10,8 @@
 
 
 # 🧪 IA Lab – Projetos de IA Generativa (Voz, Vídeo e Imagem)
-Repositório oficial dos meus experimentos, pipelines e protótipos em **IA Generativa**, com foco em voz, vídeo, imagem e multimodalidade — sempre usando tecnologias **open source**.
-
-Este laboratório reúne meus estudos práticos da certificação em IA, explorando desde clonagem de voz até geração de imagens e sincronização labial.
+Repositório  dos meus experimentos, pipelines e protótipos em **IA Generativa**, com foco em voz e vídeo, usando tecnologias **open source**.
+Aqui organizo meus estudos práticos em IA, explorando desde clonagem de voz e sincronização labial até geração de vídeos em diversos idiomas.
 
 ---
 
