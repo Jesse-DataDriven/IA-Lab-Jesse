@@ -15,7 +15,7 @@ Aqui organizo meus estudos práticos em IA, explorando desde clonagem de voz e s
 
 ---
 
-# 🎙️ Projeto 1 — IA Multilíngue (Voz + Vídeo)
+# 🎙️ Projeto — IA Multilíngue (Voz + Vídeo)
 
 Pipeline completo para gerar vídeos multilíngues com:
 
