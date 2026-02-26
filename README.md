@@ -37,9 +37,15 @@ Pipeline completo para gerar vídeos multilíngues com:
 
 Essas duas camadas são o coração do pipeline.
 
-### 🎬 Exemplos de vídeos gerados
-Idiomas já testados: 🇮🇹 🇷🇺 🇨🇳 🇯🇵 🇪🇸 🇩🇪 🇮🇳 🇰🇷  
-*(links podem ser adicionados aqui)*
+## 🎬 Exemplos de Vídeos Gerados
+
+- 🇮🇹 Italiano — https://youtu.be/TdDKNs_o2lM
+- 🇷🇺 Russo — https://youtu.be/GT53fXL-ako
+- 🇨🇳 Mandarim — https://youtu.be/7cWxO5qUAwA
+- 🇯🇵 Japonês — https://youtu.be/gSucIr4vGx4
+- 🇪🇸 Espanhol — https://youtu.be/JZR6Y7QUC_Q
+- 🇩🇪 Alemão — https://youtube.com/shorts/Oeij19cG3gM
+- 🇮🇳 Hindi — https://youtube.com/shorts/vWiujDYocac
 
 ### 📁 Acesse o projeto
 👉 `/video-voice-ai/`
