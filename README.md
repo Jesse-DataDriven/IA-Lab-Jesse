@@ -64,8 +64,18 @@ Essas duas camadas são o coração do pipeline.
 
 # 📌 Estrutura do repositório
 
-## 📁 Estrutura
-├── notebook/
-│   └── pipeline_multilingue.ipynb
-├── audiovídeo /
-└── README.md
+IA-Lab-Jesse/
+│
+├── README.md
+├── notebooks/
+│   └── voice_video_pipeline.ipynb
+├── samples/
+│   ├── original/
+│   └── generated/
+├── pipeline/
+│   ├── xtts/
+│   ├── latentsync/
+│   └── utils/
+└── assets/
+    └── thumbnails/
+
