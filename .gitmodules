@@ -1,6 +1,0 @@
-[submodule "IA-Lab-GenerativeVideo"]
-	path = IA-Lab-GenerativeVideo
-	url = https://github.com/Jesse-DataDriven/IA-Lab-GenerativeVideo
-[submodule "video-clone-pipeline"]
-	path = video-clone-pipeline
-	url = https://github.com/Jesse-DataDriven/IA-Lab-Jesse
