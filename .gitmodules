@@ -1,0 +1,3 @@
+[submodule "Notebook/video-clone-pipeline"]
+	path = Notebook/video-clone-pipeline
+	url = https://github.com/Jesse-DataDriven/IA-Lab-Jesse
